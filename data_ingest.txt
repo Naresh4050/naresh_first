@@ -1,6 +1,10 @@
 Hai man, how are you
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding more data in master
 =======
 Sunkara ingesting real time data.
 >>>>>>> feature_sunkara
+=======
+This another data ingestion, trying to understand the brach concept.
+>>>>>>> feature_naresh
