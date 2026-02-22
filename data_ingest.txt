@@ -3,7 +3,7 @@ Hai man, how are you
 <<<<<<< HEAD
 adding more data in master
 =======
-Sunkara ingesting real time data.
+Sunkara ingesting real time data actually.
 >>>>>>> feature_sunkara
 =======
 This another data ingestion, trying to understand the brach concept.
