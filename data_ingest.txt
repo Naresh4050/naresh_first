@@ -1,2 +1,6 @@
 Hai man, how are you
+<<<<<<< HEAD
 adding more data in master
+=======
+Sunkara ingesting real time data.
+>>>>>>> feature_sunkara
