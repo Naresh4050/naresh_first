@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Hyy im ingesting the data in this file.
 Master, let me also contribute the project
+=======
+Hyy im not ingesting the data in this file.
+Master, let me also contribute the project
+
+
+
+I'm fixing the bug
+>>>>>>> bugfix2
